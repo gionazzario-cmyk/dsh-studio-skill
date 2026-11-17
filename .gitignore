@@ -1,0 +1,4 @@
+scripts/ocr
+__pycache__/
+.DS_Store
+*.pyc
