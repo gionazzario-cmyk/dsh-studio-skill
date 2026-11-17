@@ -45,3 +45,7 @@ Requisiti macOS: Python 3 con Pillow, `screencapture`, `swiftc`, `ffmpeg`, `edge
 ## Note
 
 Nessuna credenziale o dato personale è incluso. Le password e i codici libro restano locali.
+
+## Licenza
+
+MIT — vedi [LICENSE](LICENSE).
